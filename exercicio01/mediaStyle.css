@@ -44,7 +44,7 @@
 
 h1 {
     color: #fff;
-    font-size: 48px;
+    font-size: 56px;
     animation: bottom 1s linear;
     font-family: "Bitcount Prop Double", system-ui;
 }
@@ -98,4 +98,15 @@ input:focus {
     background: #fff;
     cursor: pointer;
     color: #090909;
+}
+
+#media{
+    font-size: 36px;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

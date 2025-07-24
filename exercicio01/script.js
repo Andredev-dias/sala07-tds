@@ -45,8 +45,11 @@ const media = () => {
     var resposta = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
         if(resposta >= 7){
             media.style.color = 'green'
+            media.style.backgroundColor = 'lightgreen'
+
         }else{
             media.style.color = 'red'
+            media.style.backgroundColor = 'lightpink'
         }
 }
 
