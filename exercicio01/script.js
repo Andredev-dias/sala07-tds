@@ -46,7 +46,6 @@ const media = () => {
         if(resposta >= 7){
             media.style.color = 'green'
             media.style.backgroundColor = 'lightgreen'
-
         }else{
             media.style.color = 'red'
             media.style.backgroundColor = 'lightpink'
