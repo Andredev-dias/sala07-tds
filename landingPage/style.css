@@ -51,11 +51,15 @@ nav a:hover{
     border-radius: 100%;
     overflow: hidden;
     border: 6px solid #fff;
+    box-shadow: rgba(103, 206, 253, 0.961) 0px 5px 15px;
 }
-
 .img-s1{
      width: 300px;
      height: auto;
+     transition: all 200ms ease-in-out;
+}
+.img-s1:hover{
+    transform: scale(1.2);
 }
 
 .wrap-words{
