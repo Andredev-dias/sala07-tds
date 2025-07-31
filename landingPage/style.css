@@ -118,7 +118,7 @@ nav a:hover{
 #s3 {
     min-height: 100vh;
     padding-top: 80px;
-    background-color: rgb(42, 165, 99);
+    background-color: rgb(31, 1, 92);
 }
 
 #s4 {
@@ -188,7 +188,7 @@ footer img{
 }
 
 footer img:hover{
-    transform: rotate(360deg);
+    transform: rotate(360deg) scale(1.5 );
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
