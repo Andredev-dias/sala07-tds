@@ -79,6 +79,12 @@ nav a:hover{
     justify-content: center;
 }
 
+#s2 h2{
+    color: #fff;
+    font-size: 56px;
+    margin-bottom: 6vh;
+}
+
 .wrap-cards{
     display: flex;
     align-items: center;
